@@ -49,7 +49,7 @@ The app uses the [Hacker News API](https://hn.algolia.com/api) to fetch:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Cezepue/haxor-news-ios.git
+git clone https://github.com/Ezepue/haxor-news-ios.git
 ```
 2. Open `HAXOR News.xcodeproj` in Xcode
 
@@ -117,9 +117,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-**Chukwuebuka Ezepue** - [@Cezepue](https://twitter.com/FrancisEzepue)
+**Chukwuebuka Ezepue** - [@Franciszepue](https://twitter.com/FrancisEzepue)
 
-**Project Link**: [https://github.com/Cezepue/haxor-news-ios](https://github.com/Cezepue/haxor-news-ios)
+**Project Link**: [https://github.com/Ezepue/haxor-news-ios](https://github.com/Ezepue/haxor-news-ios)
 
 ---
 
